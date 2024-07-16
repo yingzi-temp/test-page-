@@ -5,3 +5,5 @@ Hello! My name is [Your Name]. This is my personal webpage hosted on GitHub Page
 ## About Me
 
 I am interested in...
+
+Just to test if I can type math $\alpha$
